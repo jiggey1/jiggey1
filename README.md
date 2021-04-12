@@ -1,4 +1,4 @@
-<h3 align="center">A Node.JS Dev</h3>
+<h3 align="center">A Node.JS, HTML & CSS Dev</h3>
 
 - 🔭 I’m currently working on [Shortlink-Bot](https://github.com/Rismose/Shortlink-Bot)
 
