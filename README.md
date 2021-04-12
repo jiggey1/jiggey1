@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Shortlink-Bot](https://github.com/Rismose/Shortlink-Bot)
 
-- 🌱 Languages: **Java, JavaScript, Discord.JS, Node.JS and C#**
+- 🌱 Languages: **Java, JavaScript, Discord.JS, Node.JS, C#, HTML and CSS**
 
 - 🔭 I’m currently working on **Atex [ Private Source ]**
 
