@@ -4,8 +4,6 @@
 
 - 🌱 Languages: **Java, JavaScript, Discord.JS, Node.JS, C#, HTML and CSS**
 
-- 🔭 I’m currently working on **Atex [ Private Source ]**
-
 - 🔭 I’m currently working on **Flamez [ Private Source ]**
 
 - 💬 About Me: **I reverse engineer software to provide cracks to my small Discord Community. I Always start and stop projects. I like learning multiple things at once.**
