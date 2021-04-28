@@ -1,6 +1,6 @@
 <h3 align="center">A Node.JS, HTML & CSS Dev</h3>
 
-- 🔭 I’m currently working on [Shortlink-Bot](https://github.com/Rismose/Shortlink-Bot)
+- 🔭 Creator of the now read-only [Shortlink-Bot](https://github.com/Rismose/Shortlink-Bot)
 
 - 🌱 Languages: **Java, JavaScript, Discord.JS, Node.JS, C#, HTML and CSS**
 
