@@ -1,10 +1,10 @@
-<h3 align="center">A Node.JS, HTML & CSS Dev</h3>
+<h3 align="center">A Node.JS Developer.</h3>
 
 - 🔭 Creator of the now read-only [Shortlink-Bot](https://github.com/Rismose/Shortlink-Bot)
 
+- 🔭 I helped develop the majority of [**Flamez!**](https://crackingcord.xyz/flamez/)
+- 
 - 🌱 Languages: **Java, JavaScript, Discord.JS, Node.JS, C#, HTML and CSS**
-
-- 🔭 I’m currently working on **Flamez [ Private Source ]**
 
 - 💬 About Me: **I reverse engineer software to provide cracks to my small Discord Community. I Always start and stop projects. I like learning multiple things at once.**
 
