@@ -4,6 +4,8 @@
 
 - 🔭 I helped develop the majority of [**Flamez!**](https://crackingcord.xyz/flamez/)
 
+- I am currently working on Sky (secret project <3)!
+
 - 🌱 Languages: **JavaScript, Discord.JS, Node.JS, HTML and CSS**
 
 - Currently Learning: **C# and Java**
