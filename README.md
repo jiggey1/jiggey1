@@ -1,1 +1,5 @@
-Super fucking cool person like honestly you should literally give me all your bitcoins and TERRA cos im actually just goated on the sticks dude
+Current Project: https://telepathy.wtf
+
+More Shit Coming Soon :D
+
+Search through my profile. I might have some cool shit \_0-0_/
